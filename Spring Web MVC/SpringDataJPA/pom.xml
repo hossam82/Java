@@ -3,6 +3,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.proj</groupId>
+	
+	
 	<artifactId>app</artifactId>
 	<name>Spring_DataJPA_MVC_Rest</name>
 	<packaging>war</packaging>
